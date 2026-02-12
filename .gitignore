@@ -1,0 +1,49 @@
+# ======================
+# OS files
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# IDE (Eclipse / IntelliJ / VSCode)
+# ======================
+.metadata/
+.settings/
+.project
+.classpath
+.vscode/
+.idea/
+
+# ======================
+# Build outputs
+# ======================
+build/
+dist/
+target/
+bin/
+out/
+
+# Compiled Java files
+*.class
+
+# Logs
+*.log
+
+# ======================
+# Node / Ionic
+# ======================
+node_modules/
+www/
+platforms/
+plugins/
+
+# ======================
+# Environment files
+# ======================
+.env
+
+# ======================
+# Temporary files
+# ======================
+*.tmp
+*.swp
