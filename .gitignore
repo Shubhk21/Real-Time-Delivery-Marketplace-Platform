@@ -1,12 +1,9 @@
 # ======================
 # OS files
-# ======================
 .DS_Store
 Thumbs.db
 
-# ======================
-# IDE (Eclipse / IntelliJ / VSCode)
-# ======================
+
 .metadata/
 .settings/
 .project
@@ -14,32 +11,25 @@ Thumbs.db
 .vscode/
 .idea/
 
-# ======================
 # Build outputs
-# ======================
 build/
 dist/
 target/
 bin/
 out/
 
-# Compiled Java files
+# java files
 *.class
 
 # Logs
 *.log
 
-# ======================
 # Node / Ionic
-# ======================
 node_modules/
 www/
 platforms/
 plugins/
 
-# ======================
-# Environment files
-# ======================
 .env
 
 # ======================
